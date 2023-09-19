@@ -66,4 +66,8 @@ The p value is less than 0.05 so we reject the null hypothesis.
 
 # Discussion and Conclusion
 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+ The original question was Is there a difference in average VitC between c39 and c52 cultivation methods?
+ In conclusion the p value of the T-test was lower than 0.05 so we rejected the null hypothesis, we found that c52 results in more VitC than c39. 
